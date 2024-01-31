@@ -50,6 +50,8 @@ They give a float output between `0.0` - `1.0`. Because we `[snapshot]` every 1m
 
 `[hv.compressor2~]` - Stereo version of `[hv.compressor~]`.
 
+`[hv.comprez2~]` - Enhanced version of `[hv.compressor2~]`, with adjustable Attack/Release parameter.
+
 `[hv.envfollow~]` - Cheap envelope follower.
 
 ### Effects
